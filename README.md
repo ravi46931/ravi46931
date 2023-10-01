@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center" color="red">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi46931&label=Profile%20views&color=0e75b6&style=flat" alt="ravi46931" /> </p>
 
