@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://ravikumar46931.me](https://ravikumar46931.me)
 
-- 📝 I regularly write articles on [https://medium.com/@ravikumar46931](https://medium.com/@ravikumar46931)
+- 📝 I write articles on [https://medium.com/@ravikumar46931](https://medium.com/@ravikumar46931)
 
-- 📫 How to reach me **ravikumar46931@gmail.com**
+- 📫 Reach out me **ravikumar46931@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
