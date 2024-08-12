@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ravi46931.github.io/portfolio-website-2/](https://ravi46931.github.io/portfolio-website-2/)
 
-- 📝 I write articles on [https://medium.com/@ravikumar46931](https://medium.com/@ravikumar46931)
+- 📝 I write blogs on [https://medium.com/@ravikumar46931](https://medium.com/@ravikumar46931)
 
 - 📫 Reach out me **ravikumar46931@gmail.com**
 
