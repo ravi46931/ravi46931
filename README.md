@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi46931&label=Profile%20views&color=0e75b6&style=flat" alt="ravi46931" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ravi46931.github.io/portfolio-website-2/](https://ravi46931.github.io/portfolio-website-2/)
-
 - 📝 I write blogs on [https://medium.com/@ravikumar46931](https://medium.com/@ravikumar46931)
 
 - 📫 Reach out me **ravikumar46931@gmail.com**
